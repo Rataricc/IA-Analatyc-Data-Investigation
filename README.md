@@ -1,3 +1,3 @@
 # IA-Analatyc-Data-Investigation
--Repo destinado al aprendizaje e investigación IA + Datos
+-Repo destinado al aprendizaje e investigación IA + Datos<br>
 [Codigó en colab](https://colab.research.google.com/drive/1NY_lEhZM_mqyEfqX69ettmrhkAMVidPt?usp=sharing). 
